@@ -1,3 +1,5 @@
+# CCTP Cross-Chain Teleporter Protocol
+The baby child of CCIP and Avalanche's Teleporter
 ## Inspiration
 The inspiration for this project came from CCIP and the presentation of Avalanche’s Teleporter. I thought about using both to give access to all the CCIP tokens and chains to all the Avalanche’s subnets.The idea is to allow seamless bridging without multiplying the points of trust.
 
