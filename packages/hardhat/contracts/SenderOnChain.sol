@@ -5,7 +5,7 @@
 
 pragma solidity 0.8.18;
 
-import "https://github.com/ava-labs/teleporter/blob/main/contracts/src/Teleporter/ITeleporterMessenger.sol";
+import "./ITeleporterMessenger.sol";
 
 contract SenderOnCChain {
 
